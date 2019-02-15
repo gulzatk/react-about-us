@@ -9,6 +9,12 @@ import Alex from '../assets/images/Alex.jpg';
 import kaveh from '../assets/images/kaveh.png';
 import glen from '../assets/images/glen.jpeg';
 import stuart from '../assets/images/stuart.jpg';
+import daniel from '../assets/images/daniel.jpg';
+import cristian from '../assets/images/cristian.jpg';
+import kenny from '../assets/images/kenny.png';
+import miranda from '../assets/images/miranda.png';
+
+
 
 function Team() {
     
@@ -104,6 +110,26 @@ const students = [
   {
     fullname: 'Kaveh',
     image: kaveh,
+    bio: 'Mediocre student at Epicodus',
+  },
+  {
+    fullname: 'Cristian',
+    image: cristian,
+    bio: 'Mediocre student at Epicodus',
+  },
+  {
+    fullname: 'Daniel',
+    image: daniel,
+    bio: 'Mediocre student at Epicodus',
+  },
+  {
+    fullname: 'Kenny',
+    image: kenny,
+    bio: 'Mediocre student at Epicodus',
+  },
+  {
+    fullname: 'Miranda',
+    image: miranda,
     bio: 'Mediocre student at Epicodus',
   }
   
